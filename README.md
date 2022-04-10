@@ -1,2 +1,5 @@
-# 3D-AHD_demo
+# 3D-AHD
 Feature Extraction via 3-D Homogeneous Attribute Decomposition for Hyperspectral Imagery Classification
+
+
+The code demo of this work will be released as soon.
